@@ -1,0 +1,21 @@
+h1 {
+    color: green
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #555555;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    /*font: normal 16px Arial, Helvetica, sans-serif;
+        this is same as the top
+    */
+    line-height: 2em; /* more/less space in between lines can use px instead of em*/
+    margin: 0;
+}
+
+.container {
+    width: 80%; /*if percentage, when tab shrunk it will shift shape*/
+    margin: auto; /*auto margin on */
+}
