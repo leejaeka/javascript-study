@@ -1,0 +1,44 @@
+body {
+    background-color: #f4f4f4;
+    color: #555;
+    font-family: Arial, Arial, Helvetica, sans-serif, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+body h1 {
+    text-align: center;
+}
+
+form input {
+    border: 3px dotted #ccc;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color:aqua;
+    text-align: center;
+}
+
+#main-header {
+    background-color: coral;
+    color: #fff;
+}
+
+.btn:hover{
+    background-color:#444
+}
+.bg-dark{
+    background:#333;
+    color:#fff;
+}
+.error{background:coral;
+       color:#fff;
+       padding:5px;
+       margin:5px;
+}
